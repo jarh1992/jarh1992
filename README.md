@@ -28,21 +28,21 @@ With solid experience in **data engineering**, **web scraping**, and **task orch
 ---
 
 🚀 **Cool Projects**
-- 🤖 *Telegram bots* for automating personal tasks  
+- 🤖 *Telegram bots* for automating IT/DEV team tasks  
 - 🥋 *Virtual learning platform for Karate-Do Shotokan JKA students*  
 - 🛒 *E-commerce scrapers* for structured data collection using Selenium & BeautifulSoup  
 
 ---
 
 🎯 **Goals**
-- Earn my **black belt in Karate-Do Shotokan JKA** (currently 3rd kyu 🟠)  
+- Earn my **black belt in Karate-Do Shotokan JKA** (currently 3rd kyu 🟤)  
 - Launch a tech **startup** blending education, data and automation  
 
 ---
 
 ❤️ **Personal Side**
 - Deeply in love with **Ximena** 💕, my wife and life partner  
-- Grateful son of **Teresa** and **Ricardo**, and loyal to my family, friends and...  
+- Grateful son of **Teresa**, and loyal to my family, friends and...  
 - 😺 **“Nube”**, my lovely cat and assistant in debugging sessions  
 
 ---

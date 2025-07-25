@@ -28,6 +28,7 @@ With solid experience in **data engineering**, **web scraping**, and **task orch
 ---
 
 🚀 **Cool Projects**
+- 📦 *cie-utils*: My own Python library published on [PyPI](https://pypi.org/project/cie-utils/) for image processing based on CIELAB color space.
 - 🤖 *Telegram bots* for automating IT/DEV team tasks  
 - 🥋 *Virtual learning platform for Karate-Do Shotokan JKA students*  
 - 🛒 *E-commerce scrapers* for structured data collection using Selenium & BeautifulSoup  

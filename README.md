@@ -42,7 +42,7 @@ With solid experience in **data engineering**, **web scraping**, and **task orch
 
 ❤️ **Personal Side**
 - Deeply in love with **Ximena** 💕, my wife and life partner  
-- Grateful son of **Teresa**, and loyal to my family, friends and...  
+- Grateful son of **Teresa** and **Ricardo**, and loyal to my family, friends and...  
 - 😺 **“Nube”**, my lovely cat and assistant in debugging sessions  
 
 ---

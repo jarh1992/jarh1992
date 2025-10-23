@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
-### Backend Developer | MSc. Physics | 🥋 Karateka | 🇨🇴 Bogotá, Colombia
+### Computer Engineer | MSc. Physics | 🥋 Karateka | 🇨🇴 Bogotá, Colombia
 
 ---
 

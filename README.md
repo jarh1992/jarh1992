@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
-### Computer Engineer | MSc. Physics | 🥋 Karateka (2nd kyu) | Bogotá, Colombia
+### Computer Engineer | MSc. Physics | 🥋 Karateka (2nd kyu 🟤) | Bogotá, Colombia
 
 ---
 
@@ -36,7 +36,7 @@ With solid experience in **data engineering**, **web scraping**, and **task orch
 ---
 
 🎯 **Goals**
-- Earn my **black belt in Karate-Do Shotokan JKA** (currently 3rd kyu 🟤)  
+- Earn my **black belt in Karate-Do Shotokan JKA** (currently 2nd kyu 🟤)  
 - Launch a tech **startup** blending education, data and automation  
 
 ---

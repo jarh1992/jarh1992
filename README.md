@@ -50,7 +50,7 @@ With solid experience in **data engineering**, **web scraping**, and **task orch
 
 📫 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jarh1992-blue?logo=linkedin)](https://linkedin.com/in/jerodriguezhe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jerodriguezhe-blue?logo=linkedin)](https://linkedin.com/in/jerodriguezhe)
 [![GitHub](https://img.shields.io/badge/GitHub-jarh1992-181717?logo=github)](https://github.com/jarh1992)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0615--2465-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0615-2465)
 [![Pastebin](https://img.shields.io/badge/Pastebin-31ph4n70m-yellow?logo=pastebin)](https://pastebin.com/u/31ph4n70m)

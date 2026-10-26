@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
-### Computer Engineer | MSc. Physics | 🥋 Karateka (2nd kyu 🟤) | Bogotá, Colombia
+### Computer Engineer | MSc. Physics | M. DRAE | 🥋 Karateka (1st kyu 🟤) | Bogotá, Colombia
 
 ---
 
@@ -28,21 +28,21 @@ With solid experience in **data engineering**, **web scraping**, and **task orch
 ---
 
 🚀 **Cool Projects**
+- 🥋 *[NeoDojo](https://neodojo.co)*: a web-based platform for managing karate dojos, students, training sessions and attendance, federation events, and a library of katas and techniques.
 - 📦 *cie-utils*: My own Python library published on [Github pages](https://github.com/jarh1992/cie-utils) and [PyPI](https://pypi.org/project/cie-utils/) for image processing based on CIELAB color space.
-- 🤖 *Telegram bots* for automating IT/DEV team tasks  
-- 🥋 *Virtual learning platform for Karate-Do Shotokan JKA students*  
-- 🛒 *E-commerce scrapers* for structured data collection using Selenium & BeautifulSoup  
+- 🤖 *Telegram bots* for automating IT/DEV team tasks.
+- 🛒 *E-commerce scrapers* for structured data collection using Selenium & BeautifulSoup.
 
 ---
 
 🎯 **Goals**
-- Earn my **black belt in Karate-Do Shotokan JKA** (currently 2nd kyu 🟤)  
-- Launch a tech **startup** blending education, data and automation  
+- Earn my **black belt in Karate-Do Shotokan JKA** (currently 1std kyu 🟤)  
+- Launch my tech startup *[NeoDojo](https://neodojo.co)*
 
 ---
 
 ❤️ **Personal Side**
-- Deeply in love with **Ximena** 💕, my wife and life partner  
+- Deeply in love with **[Ximena](https://github.com/xotalora)** 💕, my wife and life partner  
 - Grateful son of **Teresa** and **Ricardo**, and loyal to my family, friends and...  
 - 😺 **“Nube”**, my lovely cat and assistant in debugging sessions  
 
@@ -50,7 +50,7 @@ With solid experience in **data engineering**, **web scraping**, and **task orch
 
 📫 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jarh1992-blue?logo=linkedin)](https://linkedin.com/in/jarh1992)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jarh1992-blue?logo=linkedin)](https://linkedin.com/in/jerodriguezhe)
 [![GitHub](https://img.shields.io/badge/GitHub-jarh1992-181717?logo=github)](https://github.com/jarh1992)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0615--2465-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0615-2465)
 [![Pastebin](https://img.shields.io/badge/Pastebin-31ph4n70m-yellow?logo=pastebin)](https://pastebin.com/u/31ph4n70m)
